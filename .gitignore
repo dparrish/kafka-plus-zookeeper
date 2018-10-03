@@ -1,0 +1,5 @@
+*.tfstate*
+.terraform
+kubeconfig.yaml
+credentials.json
+terraform.tfvars
